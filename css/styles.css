@@ -1,4 +1,6 @@
 body {
+    color: #434455;
+    background-color: #FFFFFF;
     font-family: "Roboto", sans-serif;
 }
 
@@ -7,10 +9,10 @@ body {
 font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
-line-height: 1.16667;
+line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #2e2f42;
+color: #4d5ae5;
 }
 .header-logo-raleway {
     color: #4d5ae5;
