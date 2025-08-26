@@ -44,7 +44,7 @@ font-style: normal
 .address {
     font-style: normal
 }
-.header-address-contacts:hover,
+.header-address-contact:hover,
 .header-address-contact:focus {
     color: #404bbf;
 }
@@ -145,6 +145,9 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
 }
+.footerstudio {
+    color:  #f4f4fd;
+}
 .footer-para {
     font-weight: 400;
 font-size: 16px;
@@ -155,6 +158,7 @@ color: #f4f4fd;
 .footercolor {
     background-color:#2e2f42;
 }
+/* SECTION 3_________- */
 .Portfolio {
 font-weight: 700;
 font-size: 36px;
