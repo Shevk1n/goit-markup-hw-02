@@ -104,7 +104,10 @@ color: #434455;
 }
 /* ----------TEAM------------ */
 .sectionthree {
-    background-color: #F4F4FD;
+background-color: #F4F4FD
+}
+.team-list {
+    background-color: #FFFFFF
 }
 .team-title {
 font-weight: 700;
